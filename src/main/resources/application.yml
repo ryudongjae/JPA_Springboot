@@ -16,3 +16,4 @@ spring:
 
 logging.level:
     org.hibernate.SQL: debug  #디버그 모드로 로그남기기
+
