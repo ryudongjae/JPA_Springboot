@@ -12,7 +12,6 @@ import javax.persistence.*;
 @Entity
 @Getter@Setter
 @Table(name = "order_item")
-@NoArgsConstructor(access = AccessLevel.PROTECTED)
 public class OrderItem {
 
     @Id
